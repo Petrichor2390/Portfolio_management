@@ -1,0 +1,8 @@
+# Ignore all JPG and JPEG images
+*.jpg
+*.jpeg
+
+# Ignore all CSV data files
+*.csv
+
+**/venv/
