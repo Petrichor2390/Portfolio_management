@@ -1,0 +1,63 @@
+Name,Type
+AUS10,Bonds
+AUS3,Bonds
+CAN10,Bonds
+FR10,Bonds
+GER10,Bonds
+GER2,Bonds
+GER30,Bonds
+GER5,Bonds
+ITA10,Bonds
+JP10,Bonds
+UK10,Bonds
+US10Y,Bonds
+US2Y,Bonds
+US30Y,Bonds
+US5Y,Bonds
+ALUMINUM,Commodity
+CATTLE,Commodity
+COCOA,Commodity
+COFFEE,Commodity
+COPPER,Commodity
+CORN,Commodity
+COTTON,Commodity
+CRUDE,Commodity
+GASOIL,Commodity
+GOLD,Commodity
+HEAT OIL,Commodity
+LEAN HOGS,Commodity
+NAT GAS,Commodity
+NICKEL,Commodity
+OATS,Commodity
+PLATINUM,Commodity
+SILVER,Commodity
+SOYBEANS,Commodity
+SOYMEAL,Commodity
+SOYOIL,Commodity
+SUGAR,Commodity
+UNLEADED,Commodity
+WHEAT,Commodity
+ZINC,Commodity
+AUDJPY,Currency
+AUDNZD,Currency
+AUDUSD,Currency
+EURCHF,Currency
+EURGBP,Currency
+EURJPY,Currency
+EURNOK,Currency
+EURSEK,Currency
+USDCAD,Currency
+USDEUR,Currency
+USDGBP,Currency
+USDJPY,Currency
+AEX,Equity
+ASX 200,Equity
+CAC 40,Equity
+DAX,Equity
+FTSE 100,Equity
+FTSE MIB,Equity
+IBEX 35,Equity
+Russell 2000,Equity
+S&P 500,Equity
+TOPIX,Equity
+TSX,Equity
